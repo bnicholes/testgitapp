@@ -10,6 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         // Adding a comment line
-        // Try another comment
     }
 }
