@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         // Adding a comment line
         // this is it
+        // Third comment
     }
 }
