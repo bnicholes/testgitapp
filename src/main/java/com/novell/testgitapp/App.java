@@ -20,6 +20,5 @@ public class App {
             telemetry.trackEvent("byEvent");
         }
         
-        telemetry.
     }
 }
